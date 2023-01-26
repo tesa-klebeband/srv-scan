@@ -1,5 +1,5 @@
 # srv-scan
-The simplest FTP server scanner
+The simplest TCP server scanner
 ## Features
 * Super fast
 * Easy to use
