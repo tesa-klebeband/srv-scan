@@ -22,4 +22,4 @@ This will scan port 22 with 256 threads and a timeout of 1 second.
 The output will be written to stdout, but can be redirected to a file using `stdbuf -oL build/srv-scan 256 22 1000 &> "filename"`
 
 ## License
-All files within this repo are released under the MIT License as per the LICENSE file stored in the root of this repo.
+All files within this repo are released under the GNU GPL V3 License as per the LICENSE file stored in the root of this repo.
