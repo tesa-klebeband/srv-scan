@@ -5,7 +5,7 @@ int main(int argc, char **argv)
 {
     if (argc < 4)
     {
-        printf("\nUsage: fastscan [THREADS] [PORT] [TIMEOUT]\n\n");
+        printf("\nUsage: srv-scan [THREADS] [PORT] [TIMEOUT]\n\n");
         exit(1);
     }
 
